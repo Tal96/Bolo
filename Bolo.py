@@ -1,32 +1,32 @@
 #farinha
 print("FARINHA")
 farinha_qtd = 1000
-farinha_prc = input("Preço da farinha: ")
-farinha_ut = input("Quanto você utiliza em um bolo? ")
+farinha_prc = 10
+farinha_ut = 500
 #acucar
-acucar_qtd = input("Qual a gramatura do saco de açucar? ")
-acucar_prc = input("Qual a preço do saco de açucar? ")
-acucar_ut = input("Qual a gramatura utilizada de açucar para um bolo? ")
+acucar_qtd = 1000
+acucar_prc = 10
+acucar_ut = 300
 #ovos
-ovo_qtd = input("Qual a quantidade de ovos comprada? ")
-ovo_prc = input("Qual o preço dos ovos? ")
-ovo_ut = input("quantos ovos serão utilizados? ")
+ovo_qtd = 12
+ovo_prc = 8
+ovo_ut = 4
 #leite
-leite_qtd = input("Quantos litros de leite vem na caixa:  ")
-leite_prc = input("Qual o preço? ")
-leite_ut = input("Quanto será utilizado?  ")
+leite_qtd = 1000
+leite_prc = 7
+leite_ut = 200
 #manteiga
-manteiga_qtd = input("Qual a gramatura do saco da farinha de trigo? ")
-manteiga_prc = input("Qual a gramatura do saco da farinha de trigo? ")
-manteiga_ut = input("Qual a gramatura do saco da farinha de trigo? ")
+manteiga_qtd = 500
+manteiga_prc = 12
+manteiga_ut = 100
 #fermentoinput
-fermento_qtd = input("Qual a gramatura do saco da farinha de trigo? ")
-fermento_prc = input("Qual a gramatura do saco da farinha de trigo? ")
-fermento_ut = input("Qual a gramatura do saco da farinha de trigo? ")
+fermento_qtd = 50
+fermento_prc = 5
+fermento_ut = 10
 #essencia
-essencia_qtd = input("Qual a gramatura do saco da farinha de trigo? ")
-essencia_prc = input("Qual a gramatura do saco da farinha de trigo? ")
-essencia_ut = input("Qual a gramatura do saco da farinha de trigo? ")
+essencia_qtd = 80
+essencia_prc = 11
+essencia_ut = 10
 #eletrica
 eletrica = 5
 #gas
