@@ -1,6 +1,6 @@
 #farinha
 print("FARINHA")
-farinha_qtd = input("Qual a gramatura do saco da farinha de trigo? ")
+farinha_qtd = 1000
 farinha_prc = input("Preço da farinha: ")
 farinha_ut = input("Quanto você utiliza em um bolo? ")
 #acucar
