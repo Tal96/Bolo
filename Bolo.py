@@ -56,7 +56,7 @@ lista_sobra = [f"Farinha :{sobra_F}", f"Açucar: {sobra_A}", f"Ovos: {sobra_O}",
 if sobra_F >= farinha_ut and sobra_A >= acucar_ut and sobra_O >= ovo_ut and sobra_L >= leite_ut and sobra_M >= manteiga_ut and sobra_FE >= fermento_ut and sobra_E >= essencia_ut:
     for l in lista_sobra:
         print(l)
-    print("Você pode fazer um novo bolo com os ingredientes que sobraram.")
+    print("Voce pode fazer um novo bolo com os ingredientes que sobraram.")
 
 else:
     print("Ingredientes insuficientes.")
